@@ -1,0 +1,18 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca (Inspired by VanillaTweaks.net)",
+    "display": {
+        "title": {"text": "Molly's Crafting Tweaks","color": "dark_purple"},
+        "description": ["",{"text":"Adds assorted crafting recipes.\n","color":"yellow"}],
+        "icon": {"item": "minecraft:crafting_table"},
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "minecraft": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "happymolly91:root"
+}
