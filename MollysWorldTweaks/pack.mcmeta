@@ -2,6 +2,6 @@
 	"pack": {
 		"pack_format": 15,
 		"supported_formats": {"min_inclusive": 15, "max_inclusive": 26},
-		"description": [{"text":"Molly's World Tweaks","color":"yellow"},{"text":"\nMade by HappyMolly91","color":"purple"}]
+		"description": [{"text":"Molly's World Tweaks","color":"yellow"},{"text":"\nMade by HappyMolly91","color":"light_purple"}]
 	}
 }

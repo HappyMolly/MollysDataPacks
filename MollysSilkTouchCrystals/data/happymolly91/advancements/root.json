@@ -2,7 +2,7 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {"text": "HappyMolly91's Datapacks","color": "yellow"},
-        "description": ["",{"text":"A list of all HappyMolly91's Datapacks in current world\n","color":"yellow"},{"text":"https://modrinth.com/user/HappyMolly91/datapacks","color":"dark_purple"}],
+        "description": ["",{"text":"A list of all HappyMolly91's Datapacks in current world\n","color":"yellow"},{"text":"https://modrinth.com/user/HappyMolly91/datapacks","color":"light_purple"}],
         "icon": {"item": "minecraft:music_disc_otherside"},
         "frame": "challenge",
         "show_toast": false,

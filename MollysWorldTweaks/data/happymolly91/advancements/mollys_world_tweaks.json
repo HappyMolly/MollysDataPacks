@@ -1,8 +1,8 @@
 {
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca (Inspired by VanillaTweaks.net)",
     "display": {
-        "title": {"text": "Molly's World Tweaks","color": "dark_purple"},
-        "description": ["",{"text":"Increases Monster room generation and removes 1x1 lava springs in the Nether.\n","color":"yellow"}],
+        "title": {"text": "Molly's World Tweaks","color": "white"},
+        "description": {"text":"Increases Monster room generation and removes 1x1 lava springs in the Nether.","color":"yellow"},
         "icon": {"item": "minecraft:bamboo_raft"},
         "frame": "task",
         "show_toast": false,
