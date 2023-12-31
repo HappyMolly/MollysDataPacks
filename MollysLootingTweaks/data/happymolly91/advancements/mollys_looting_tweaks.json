@@ -1,8 +1,8 @@
 {
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca (Inspired by VanillaTweaks.net)",
     "display": {
-        "title": {"text": "Molly's Silk Touch Crystals","color": "white"},
-        "description": {"text":"Allows you to mine Budding Amethyst with Silk Touch.","color":"yellow"},
+        "title": {"text": "Molly's Silk Touch Tweaks","color": "white"},
+        "description": {"text":"Allows you to mine more blocks with Silk Touch.","color":"yellow"},
         "icon": {"item": "minecraft:budding_amethyst"},
         "frame": "task",
         "show_toast": false,
