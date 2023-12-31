@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "minecraft:budding_amethyst"
+              "name": "minecraft:reinforced_deepslate"
             },
             {
               "type": "minecraft:item",
@@ -33,7 +33,7 @@
                   "condition": "minecraft:survives_explosion"
                 }
               ],
-              "name": "minecraft:budding_amethyst"
+              "name": "minecraft:reinforced_deepslate"
             }
           ]
         }
@@ -41,5 +41,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "minecraft:blocks/budding_amethyst"
+  "random_sequence": "minecraft:blocks/reinforced_deepslate"
 }
