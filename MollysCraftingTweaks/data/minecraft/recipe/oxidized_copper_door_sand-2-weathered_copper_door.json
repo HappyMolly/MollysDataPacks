@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:oxidized_copper_door"
+        },
+        {
+            "item": "minecraft:sand"
+        }
+    ],
+    "result": {
+        "id": "minecraft:weathered_copper_door",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:plenty_pottery_sherd"
+        },
+        {
+            "item": "minecraft:brick"
+        },
+        {
+            "item": "minecraft:diamond"
+        }
+    ],
+    "result": {
+        "id": "minecraft:plenty_pottery_sherd",
+        "count": 2
+    }
+}
