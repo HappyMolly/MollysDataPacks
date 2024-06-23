@@ -2,7 +2,7 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca (Inspired by VanillaTweaks.net)",
     "display": {
         "title": {"text": "Molly's <>","color": "dark_purple"},
-        "description": ["",{"text":"<>.\n","color":"yellow"}],
+        "description": {"text":"<>.","color":"yellow"},
         "icon": {"item": "minecraft:crafting_table"},
         "frame": "task",
         "show_toast": false,
