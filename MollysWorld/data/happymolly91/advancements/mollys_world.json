@@ -1,9 +1,9 @@
 {
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca (Inspired by VanillaTweaks.net)",
     "display": {
-        "title": {"text": "Molly's Crafting Tweaks","color": "white"},
-        "description": {"text":"Adds assorted crafting recipes.","color":"yellow"},
-        "icon": {"item": "minecraft:crafting_table"},
+        "title": {"text": "Molly's World","color": "white"},
+        "description": {"text":"Increases Monster room generation and removes 1x1 lava springs in the Nether.","color":"yellow"},
+        "icon": {"item": "minecraft:bamboo_raft"},
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false,
