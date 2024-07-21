@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:budding_amethyst"
+    },
+    "title": {
+      "text": "HappyMolly's Silk Touch",
+      "color": "light_purple"
+    },
+    "description": {
+      "text": "Allows you to mine more blocks with Silk Touch.",
+      "color": "yellow"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "parent": "happymolly91:root",
+  "sends_telemetry_event": false
+}

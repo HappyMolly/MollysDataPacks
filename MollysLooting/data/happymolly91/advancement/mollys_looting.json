@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_sword"
+    },
+    "title": {
+      "text": "HappyMolly's Looting",
+      "color": "light_purple"
+    },
+    "description": {
+      "text": "Adds additional resources to certain mobs, to make things renewable and make some mobs more useful.",
+      "color": "yellow"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "parent": "happymolly91:root",
+  "sends_telemetry_event": false
+}

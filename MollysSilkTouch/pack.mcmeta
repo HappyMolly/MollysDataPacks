@@ -1,7 +1,19 @@
 {
-	"pack": {
-		"pack_format": 48,
-		"supported_formats": {"min_inclusive": 48, "max_inclusive": 48},
-		"description": [{"text":"Molly's Silk Touch","color":"yellow"},{"text":"\nMade by HappyMolly91","color":"light_purple"}]
-	}
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 48
+        },
+        "description": [
+            {
+                "text": "Molly's Silk Touch",
+                "color": "light_purple"
+            },
+            {
+                "text": "/nMade by HappyMolly91",
+                "color": "yellow"
+            }
+        ]
+    }
 }

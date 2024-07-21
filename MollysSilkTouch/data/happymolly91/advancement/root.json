@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_otherside"
+    },
+    "title": {
+      "text": "HappyMolly's Datapacks",
+      "color": "light_purple"
+    },
+    "description": {
+      "text": "A list of HappyMolly datapacks loaded in current world.",
+      "color": "yellow"
+    },
+    "background": "minecraft:textures/block/blue_terracotta.png",
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "sends_telemetry_event": false
+}

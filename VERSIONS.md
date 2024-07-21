@@ -2,10 +2,11 @@
 
 ## 1.21
 
-* Molly's Crafting: 3.0.0 for Minecraft 1.21
-* Molly's Looting: 2.0.0 for Minecraft 1.21
-* Molly's SilkTouch: 4.0.0 for Minecraft 1.21
-* Molly's World: 3.0.0 for Minecraft 1.21
+* Molly's Crafting: 3.0.1 for Minecraft 1.21
+* Molly's Looting: 2.0.1 for Minecraft 1.21
+* Molly's Misc: 1.0.0 for Minecraft 1.21
+* Molly's SilkTouch: 4.0.1 for Minecraft 1.21
+* Molly's World: 3.0.1 for Minecraft 1.21
 
 ## 1.20.4
 
