@@ -4,7 +4,7 @@
 Adds assorted crafting recipes.
 ## [Molly's Enchantments (Still in early development)]()
 Adds assorted fun enchantments.
-## [Molly's Looting (Under review)](https://modrinth.com/datapack/mollys-looting)
+## [Molly's Looting](https://modrinth.com/datapack/mollys-looting)
 Adds additional resources to certain mobs, to make things renewable and make some mobs more useful.
 ## [Molly's Misc (Under review)](https://modrinth.com/datapack/mollys-misc)
 Things not fitting into existing packs.
