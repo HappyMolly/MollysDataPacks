@@ -1,9 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:pufferfish_bucket"
-        }
+        "minecraft:pufferfish_bucket"
     ],
     "result": {
         "id": "minecraft:bucket",

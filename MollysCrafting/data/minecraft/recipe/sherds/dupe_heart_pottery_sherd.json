@@ -1,15 +1,9 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:heart_pottery_sherd"
-        },
-        {
-            "item": "minecraft:brick"
-        },
-        {
-            "item": "minecraft:diamond"
-        }
+        "minecraft:heart_pottery_sherd",
+        "minecraft:brick",
+        "minecraft:diamond"
     ],
     "result": {
         "id": "minecraft:heart_pottery_sherd",

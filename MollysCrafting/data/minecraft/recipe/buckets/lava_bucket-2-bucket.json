@@ -1,9 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:lava_bucket"
-        }
+        "minecraft:lava_bucket"
     ],
     "result": {
         "id": "minecraft:bucket",

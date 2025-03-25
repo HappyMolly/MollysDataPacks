@@ -2,9 +2,7 @@
     "type": "minecraft:campfire_cooking",
     "cookingtime": 200,
     "experience": 0,
-    "ingredient": {
-        "item": "minecraft:torch"
-    },
+    "ingredient": "minecraft:stick",
     "result": {
         "id": "minecraft:torch"
     }

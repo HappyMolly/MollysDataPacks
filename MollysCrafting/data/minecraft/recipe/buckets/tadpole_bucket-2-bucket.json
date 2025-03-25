@@ -1,9 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:tadpole_bucket"
-        }
+        "minecraft:tadpole_bucket"
     ],
     "result": {
         "id": "minecraft:bucket",

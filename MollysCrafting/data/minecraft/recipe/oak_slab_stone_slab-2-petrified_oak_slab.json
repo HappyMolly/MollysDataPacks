@@ -1,12 +1,8 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:oak_slab"
-        },
-        {
-            "item": "minecraft:stone_slab"
-        }
+        "minecraft:oak_slab",
+        "minecraft:stone_slab"
     ],
     "result": {
         "id": "minecraft:petrified_oak_slab",
