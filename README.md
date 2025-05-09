@@ -4,7 +4,7 @@
 Adds assorted crafting recipes.
 ## [Molly's Looting](https://modrinth.com/datapack/mollys-looting)
 Adds additional resources to certain mobs, to make things renewable and make some mobs more useful.
-## [Molly's Misc (Under review)](https://modrinth.com/datapack/mollys-misc)
+## [Molly's Misc](https://modrinth.com/datapack/mollys-misc)
 Things not fitting into existing packs.
 ## [Molly's Silk Touch](https://modrinth.com/datapack/mollys-silk-touch)
 Allows you to mine more blocks with [Silk Touch](https://minecraft.wiki/w/Silk_Touch).
