@@ -2,7 +2,7 @@
   "type": "minecraft:fishing",
   "pools": [
     {
-      "bonus_rolls": 0.0,
+      "bonus_rolls": 0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -17,7 +17,7 @@
               "damage": {
                 "type": "minecraft:uniform",
                 "max": 0.9,
-                "min": 0.0
+                "min": 0
               },
               "function": "minecraft:set_damage"
             }
@@ -59,7 +59,7 @@
               "damage": {
                 "type": "minecraft:uniform",
                 "max": 0.9,
-                "min": 0.0
+                "min": 0
               },
               "function": "minecraft:set_damage"
             }
@@ -82,7 +82,7 @@
           "functions": [
             {
               "add": false,
-              "count": 10.0,
+              "count": 10,
               "function": "minecraft:set_count"
             }
           ],
@@ -104,7 +104,7 @@
           "weight": 10
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:gameplay/fishing/junk"

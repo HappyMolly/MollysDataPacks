@@ -2,43 +2,31 @@
   "type": "minecraft:block",
   "pools": [
     {
-      "bonus_rolls": 0.0,
-      "entries": [
+      "bonus_rolls": 0,
+      "conditions": [
         {
-          "type": "minecraft:alternatives",
-          "children": [
-            {
-              "type": "minecraft:item",
-              "conditions": [
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "predicates": {
+              "minecraft:enchantments": [
                 {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
+                  "enchantments": "minecraft:silk_touch",
+                  "levels": {
+                    "min": 1
                   }
                 }
-              ],
-              "name": "minecraft:reinforced_deepslate"
-            },
-            {
-              "type": "minecraft:item",
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                }
-              ],
-              "name": "minecraft:reinforced_deepslate"
+              ]
             }
-          ]
+          }
         }
       ],
-      "rolls": 1.0
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:reinforced_deepslate"
+        }
+      ],
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/reinforced_deepslate"
